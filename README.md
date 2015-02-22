@@ -1,3 +1,9 @@
+This ResumeCard is built via ResumeCards by [Elle Kasai](http://github.com/ellekasai/resumecard/)
+
+
+Original Documentation Below:
+---
+
 # :briefcase: ResumeCards :briefcase:
 
 ResumeCards is a Markdown based resume generator. It looks great on mobile/desktop and can be saved as PDF.
