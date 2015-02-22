@@ -4,9 +4,9 @@ demo: true
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
-photo: "https://avatars0.githubusercontent.com/u/2410692?v=2&s=150"
-name: "Elle Kasai"
-copy: "UI/UX Designer from Japan, currently based in Vancouver, Canada. I am currently looking for a full-time design position in Canada."
+photo: "https://avatars3.githubusercontent.com/u/5028555?v=3&s=150"
+name: "Rose Cass"
+copy: "Web Developer, currently based in Vancouver, Canada."
 
 # Color scheme based on http://www.materialui.co/colors.
 # Possible values:
@@ -18,4 +18,4 @@ copy: "UI/UX Designer from Japan, currently based in Vancouver, Canada. I am cur
 # - purple
 # - teal
 # - green
-color: default
+color: teal
