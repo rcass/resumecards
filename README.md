@@ -1,9 +1,9 @@
 This ResumeCard is built via ResumeCards by [Elle Kasai](http://github.com/ellekasai/resumecard/)
 
 
-Vist [ResumeCards](http://ellekasai.github.io/resumecards/) to learns more
+Visit [ResumeCards](http://ellekasai.github.io/resumecards/) to learn more.
 
-See the [ResumeCards](http://github.com/ellekasai/resumecard/fork) repo to fork and read the documenation
+See the [ResumeCards](http://github.com/ellekasai/resumecard/fork) repo for documentation.
 
 # More ResumeCards credit:
 
