@@ -1,3 +1,5 @@
+See this ResumeCard live at [resumecards.rosecass.com](http://resumecards.rosecass.com)
+
 This ResumeCard is built via ResumeCards by [Elle Kasai](http://github.com/ellekasai/resumecard/)
 
 
